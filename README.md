@@ -1,5 +1,5 @@
 # Water_Sort_Puzzle (Production)
-After writting this program I properly understood the logic behind this puzzle game work. Enjoyed it very much.
+After writting this program I properly understood the logic behind this puzzle game. Enjoyed it very much.
 
 ## Description
 Water Sort Puzzle is a puzzle game that challenges the user to try and sort the colored water in the bottles until all corresponding colors are in the same bottle.
